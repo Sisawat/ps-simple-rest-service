@@ -1,0 +1,10 @@
+{
+  "name": "ps-simple-rest-service",
+  "version": "1.0.0",
+  "description": "Learning how to set up Purescript with Node.js\"",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^7.4.3"
+  }
+}

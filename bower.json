@@ -1,0 +1,21 @@
+{
+  "name": "ps-simple-rest-service",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.0.0",
+    "purescript-console": "^4.1.0",
+    "purescript-effect": "^2.0.0",
+    "purescript-foreign-generic": "^7.0.0",
+    "purescript-generics-rep": "^6.0.0",
+    "purescript-aff": "^4.1.1",
+    "purescript-postgresql-client": "^2.3.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0"
+  }
+}
